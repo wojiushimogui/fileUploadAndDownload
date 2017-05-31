@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="fileupdowm:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="fileupdowm.war">
+      <element id="artifact" artifact-name="fileupdowm:war exploded" />
+    </root>
+  </artifact>
+</component>
